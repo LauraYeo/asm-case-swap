@@ -26,11 +26,7 @@ ld swapCase.o -o swapCase
 Step 5. Run the Executable:
 ./swapCase
 
-
-
 Issues/Notes:
-Loop Termination:
-
 1. Ensuring that the loop in the swapcase function terminates correctly after processing all characters in the input string, 
 avoiding infinite loops or premature exits.
 
