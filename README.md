@@ -1,7 +1,10 @@
 Author name: Laura Chudzio
 Student Number: c00253150
 Licence Details: swapCase © 2024 by Laura Chudzio is licensed under Attribution-NoDerivatives 4.0 International Attribution-NoDerivatives 4.0 International
-Project description: "ASM Case Swap" is an assembly program for Linux, enabling users to toggle character cases within a string input. 
+
+Project description: 
+
+"ASM Case Swap" is an assembly program for Linux, enabling users to toggle character cases within a string input. 
 Through system calls and low-level text manipulation, it offers practical insights into system-level programming.
 
 Instructions on producing an executable:
