@@ -1,5 +1,4 @@
 Author name: Laura Chudzio
-Student Number: c00253150
 Licence Details: swapCase © 2024 by Laura Chudzio is licensed under Attribution-NoDerivatives 4.0 International Attribution-NoDerivatives 4.0 International
 
 Project description: 
